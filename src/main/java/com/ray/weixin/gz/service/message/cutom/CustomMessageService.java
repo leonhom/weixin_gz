@@ -19,6 +19,7 @@ import com.ray.weixin.gz.util.MessageUtil;
  * @date : 2017年10月31日 下午3:19:43
  */
 public class CustomMessageService {
+
     private static final Logger log = LogManager.getLogger(CustomMessageService.class);
 
     //2.会话控制——创建会话
@@ -84,10 +85,7 @@ public class CustomMessageService {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
-
-
     }
-
 
     /**
      * @param accessToken 接口调用凭证
@@ -176,6 +174,4 @@ public class CustomMessageService {
             e.printStackTrace();
         }
     }
-
-
 }
