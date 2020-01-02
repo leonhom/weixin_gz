@@ -8,7 +8,6 @@
     <name>weixin_gz</name>
   <description>微信公众平台</description>
 
-
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -113,20 +112,6 @@
 			<version>1.4.10</version>
 		</dependency>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 	</dependencies>
-
 
 </project>
